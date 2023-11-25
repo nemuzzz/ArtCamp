@@ -1,0 +1,777 @@
+fileFormatVersion: 2
+guid: 256516e50bff65a459a6798eb0906889
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: land1_1
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 762
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f78c49dea39d749925af49dccb4bfb
+      internalID: 701409749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: land1_2
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 762
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1846642f7d534cf40a1f958a5fc321f3
+      internalID: 389697279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: land1_3
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 761
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b204b5b9a02bc344a1d3c44b76bd4cd
+      internalID: 1538103036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant1_1
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 827
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b6c43243c239e4d85234b1c5348e3d
+      internalID: 172393007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: land1_4
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 661
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03fbd487a8217f54483d3a8df0b59894
+      internalID: 1279565745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: land1_5
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 661
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a89d54d0b041b044a0ab71c3a12c2e8
+      internalID: 680015577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: land1_6
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 661
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf7a0709bae3b04ca1ac5dbf5b50ed7
+      internalID: 761942245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant1_2
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 713
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb0084925233fd44aae778c24d1e49e
+      internalID: 260204845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: land1_17
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 690
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b3e21e1932c0d24aa98249d2e2238f5
+      internalID: 345603323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: land1_7
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 561
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd4696a353e8c664984c4aaa7c82071c
+      internalID: 1309267158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: land1_8
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 561
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ece91480ac4394d8bad6800b36a9cd
+      internalID: -1661804792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: land1_9
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 561
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5764d7593b0ee2428f24833b7fe2dde
+      internalID: 1189516940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant1_3
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 619
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 094c3ec50c53ee640aa518b49ee2b14e
+      internalID: -232328743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant1_4
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 602
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba0352829e662f42b79dc03397065e4
+      internalID: 1102058513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: land1_18
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 591
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d8c67ecd67abd4e9be821c4410f62e
+      internalID: -1788915135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: land1_19
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 489
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc555b8a9830c484fb1d91b7377136ff
+      internalID: -287302770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: land1_10
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 394
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29aa2f9d4c5264f4eade95fb4b98a114
+      internalID: -526898004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: land1_11
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 395
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b63e5d056a1a7408385a9cc8104408
+      internalID: 714758734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: land1_12
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 394
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a49910db909e7cb45a61be9e50f9094e
+      internalID: 2125290855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant1_5
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 474
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 936f0e6dd056533498922793e9e6681e
+      internalID: 1330767571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant1_6
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 468
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac7f88952d82b4d4ea1657b2d7cadb57
+      internalID: -1181689957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "map-\u6062\u590D\u7684_40"
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 294
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a59612109f5cde541ac2a1756e7d28f2
+      internalID: -122827504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: land1_14
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 295
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d2e24a9ec979f4683a3b8fa114321c
+      internalID: 1714525782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant1_7
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 321
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bab75558af462e409f84a8ed0308480
+      internalID: 425918504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant1_8
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 324
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd01e0520f4a79c4080b6557e599e8da
+      internalID: 171216623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: land1_20
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 160
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d844af49f5291b4b93ff75ce60036e3
+      internalID: -1146275353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pond1_!
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 78
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 292c5521cedca164b9853a95038f9eaa
+      internalID: -682344479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall1_1
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 66
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28158838fa003844a889f9a0ed92e50e
+      internalID: 949514273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      fall1_1: 949514273
+      land1_1: 701409749
+      land1_10: -526898004
+      land1_11: 714758734
+      land1_12: 2125290855
+      land1_14: 1714525782
+      land1_17: 345603323
+      land1_18: -1788915135
+      land1_19: -287302770
+      land1_2: 389697279
+      land1_20: -1146275353
+      land1_3: 1538103036
+      land1_4: 1279565745
+      land1_5: 680015577
+      land1_6: 761942245
+      land1_7: 1309267158
+      land1_8: -1661804792
+      land1_9: 1189516940
+      "map-\u6062\u590D\u7684_0": 993841849
+      "map-\u6062\u590D\u7684_10": 713136817
+      "map-\u6062\u590D\u7684_12": -1168668810
+      "map-\u6062\u590D\u7684_14": -1148130720
+      "map-\u6062\u590D\u7684_18": 254023229
+      "map-\u6062\u590D\u7684_21": -1840198470
+      "map-\u6062\u590D\u7684_23": 911493470
+      "map-\u6062\u590D\u7684_24": 2044780711
+      "map-\u6062\u590D\u7684_25": 59822625
+      "map-\u6062\u590D\u7684_26": -662343037
+      "map-\u6062\u590D\u7684_27": 1009183239
+      "map-\u6062\u590D\u7684_28": 1972167275
+      "map-\u6062\u590D\u7684_29": -1476577916
+      "map-\u6062\u590D\u7684_30": -1569654003
+      "map-\u6062\u590D\u7684_35": -101074593
+      "map-\u6062\u590D\u7684_38": 1864680684
+      "map-\u6062\u590D\u7684_39": 764571218
+      "map-\u6062\u590D\u7684_4": -869495606
+      "map-\u6062\u590D\u7684_40": -122827504
+      "map-\u6062\u590D\u7684_42": -1943348609
+      "map-\u6062\u590D\u7684_43": -381996756
+      "map-\u6062\u590D\u7684_46": -616370385
+      "map-\u6062\u590D\u7684_47": 579180304
+      "map-\u6062\u590D\u7684_48": -1821469967
+      "map-\u6062\u590D\u7684_49": -98446291
+      "map-\u6062\u590D\u7684_51": -1977193426
+      "map-\u6062\u590D\u7684_53": 950630625
+      "map-\u6062\u590D\u7684_55": -866619156
+      "map-\u6062\u590D\u7684_56": -395991823
+      "map-\u6062\u590D\u7684_57": -650991537
+      "map-\u6062\u590D\u7684_58": -752422386
+      "map-\u6062\u590D\u7684_59": -580281583
+      "map-\u6062\u590D\u7684_6": 723649023
+      "map-\u6062\u590D\u7684_60": -484122561
+      "map-\u6062\u590D\u7684_61": 528371098
+      plant1_1: 172393007
+      plant1_2: 260204845
+      plant1_3: -232328743
+      plant1_4: 1102058513
+      plant1_5: 1330767571
+      plant1_6: -1181689957
+      plant1_7: 425918504
+      plant1_8: 171216623
+      pond1_!: -682344479
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
