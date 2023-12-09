@@ -455,7 +455,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: 0, y: 0, z: -39.828}
+        value: {x: 0, y: 0, z: -54.611}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -473,7 +473,7 @@ AnimationClip:
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
         time: 1
-        value: {x: 0, y: 0, z: -39.828}
+        value: {x: 0, y: 0, z: -54.611}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -12976,7 +12976,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: -39.828
+        value: -54.611
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -12994,7 +12994,7 @@ AnimationClip:
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 1
-        value: -39.828
+        value: -54.611
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -18112,7 +18112,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: 
+    path: "\u6674\u7BAC_oc/bone_1/bone_17"
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -18124,7 +18124,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: 
+    path: "\u6674\u7BAC_oc/bone_1/bone_17"
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -18136,7 +18136,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: 
+    path: "\u6674\u7BAC_oc/bone_1/bone_17"
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -18148,7 +18148,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: "\u6674\u7BAC_oc/rightleg_down"
+    path: "\u6674\u7BAC_oc/righthem"
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -18160,7 +18160,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: "\u6674\u7BAC_oc/rightleg_down"
+    path: "\u6674\u7BAC_oc/righthem"
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -18172,7 +18172,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: "\u6674\u7BAC_oc/rightleg_down"
+    path: "\u6674\u7BAC_oc/righthem"
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -18184,7 +18184,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: "\u6674\u7BAC_oc/bone_1/bone_25/bone_26"
+    path: "\u6674\u7BAC_oc/bone_1/bone_25"
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -18196,7 +18196,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: "\u6674\u7BAC_oc/bone_1/bone_25/bone_26"
+    path: "\u6674\u7BAC_oc/bone_1/bone_25"
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -18208,43 +18208,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: "\u6674\u7BAC_oc/bone_1/bone_25/bone_26"
-    classID: 4
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.z
-    path: "\u6674\u7BAC_oc/righthand"
-    classID: 4
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.y
-    path: "\u6674\u7BAC_oc/righthand"
-    classID: 4
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.x
-    path: "\u6674\u7BAC_oc/righthand"
+    path: "\u6674\u7BAC_oc/bone_1/bone_25"
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -18292,7 +18256,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: "\u6674\u7BAC_oc/bone_1/bone_25"
+    path: "\u6674\u7BAC_oc/rightarm_up"
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -18304,7 +18268,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: "\u6674\u7BAC_oc/bone_1/bone_25"
+    path: "\u6674\u7BAC_oc/rightarm_up"
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -18316,7 +18280,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: "\u6674\u7BAC_oc/bone_1/bone_25"
+    path: "\u6674\u7BAC_oc/rightarm_up"
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -18472,7 +18436,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: "\u6674\u7BAC_oc/bone_1/bone_17/bone_18"
+    path: "\u6674\u7BAC_oc/bone_1/bone_20"
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -18484,7 +18448,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: "\u6674\u7BAC_oc/bone_1/bone_17/bone_18"
+    path: "\u6674\u7BAC_oc/bone_1/bone_20"
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -18496,79 +18460,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: "\u6674\u7BAC_oc/bone_1/bone_17/bone_18"
-    classID: 4
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.z
-    path: "\u6674\u7BAC_oc/bone_1/bone_2/bone_3/bone_10/bone_11"
-    classID: 4
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.y
-    path: "\u6674\u7BAC_oc/bone_1/bone_2/bone_3/bone_10/bone_11"
-    classID: 4
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.x
-    path: "\u6674\u7BAC_oc/bone_1/bone_2/bone_3/bone_10/bone_11"
-    classID: 4
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.z
-    path: "\u6674\u7BAC_oc/bone_1/bone_2/bone_3/bone_7"
-    classID: 4
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.y
-    path: "\u6674\u7BAC_oc/bone_1/bone_2/bone_3/bone_7"
-    classID: 4
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.x
-    path: "\u6674\u7BAC_oc/bone_1/bone_2/bone_3/bone_7"
+    path: "\u6674\u7BAC_oc/bone_1/bone_20"
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -18616,7 +18508,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: "\u6674\u7BAC_oc/bone_1/bone_2/bone_3/bone_5"
+    path: "\u6674\u7BAC_oc/bone_1/bone_2/bone_3/bone_10"
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -18628,7 +18520,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: "\u6674\u7BAC_oc/bone_1/bone_2/bone_3/bone_5"
+    path: "\u6674\u7BAC_oc/bone_1/bone_2/bone_3/bone_10"
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -18640,7 +18532,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: "\u6674\u7BAC_oc/bone_1/bone_2/bone_3/bone_5"
+    path: "\u6674\u7BAC_oc/bone_1/bone_2/bone_3/bone_10"
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -18652,7 +18544,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: 22/New LimbSolver2D_Target
+    path: "\u6674\u7BAC_oc/bone_1/bone_2/bone_3/bone_6"
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -18664,7 +18556,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: 22/New LimbSolver2D_Target
+    path: "\u6674\u7BAC_oc/bone_1/bone_2/bone_3/bone_6"
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -18676,475 +18568,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: 22/New LimbSolver2D_Target
-    classID: 4
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.z
-    path: "\u6674\u7BAC_oc"
-    classID: 4
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.y
-    path: "\u6674\u7BAC_oc"
-    classID: 4
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.x
-    path: "\u6674\u7BAC_oc"
-    classID: 4
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.z
-    path: 22
-    classID: 4
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.y
-    path: 22
-    classID: 4
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.x
-    path: 22
-    classID: 4
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.z
-    path: "\u6674\u7BAC_oc/bone_1"
-    classID: 4
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.y
-    path: "\u6674\u7BAC_oc/bone_1"
-    classID: 4
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.x
-    path: "\u6674\u7BAC_oc/bone_1"
-    classID: 4
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.z
-    path: "\u6674\u7BAC_oc/bone_1/bone_2/bone_3/bone_4"
-    classID: 4
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.y
-    path: "\u6674\u7BAC_oc/bone_1/bone_2/bone_3/bone_4"
-    classID: 4
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.x
-    path: "\u6674\u7BAC_oc/bone_1/bone_2/bone_3/bone_4"
-    classID: 4
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.z
-    path: "\u6674\u7BAC_oc/bone_1/bone_2/bone_3/bone_7/bone_8"
-    classID: 4
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.y
-    path: "\u6674\u7BAC_oc/bone_1/bone_2/bone_3/bone_7/bone_8"
-    classID: 4
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.x
-    path: "\u6674\u7BAC_oc/bone_1/bone_2/bone_3/bone_7/bone_8"
-    classID: 4
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.z
-    path: "\u6674\u7BAC_oc/bone_1/bone_2/bone_3"
-    classID: 4
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.y
-    path: "\u6674\u7BAC_oc/bone_1/bone_2/bone_3"
-    classID: 4
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.x
-    path: "\u6674\u7BAC_oc/bone_1/bone_2/bone_3"
-    classID: 4
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.z
-    path: "\u6674\u7BAC_oc/bone_1/bone_2"
-    classID: 4
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.y
-    path: "\u6674\u7BAC_oc/bone_1/bone_2"
-    classID: 4
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.x
-    path: "\u6674\u7BAC_oc/bone_1/bone_2"
-    classID: 4
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.z
-    path: "\u6674\u7BAC_oc/bone_1/bone_17/bone_18/bone_19"
-    classID: 4
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.y
-    path: "\u6674\u7BAC_oc/bone_1/bone_17/bone_18/bone_19"
-    classID: 4
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.x
-    path: "\u6674\u7BAC_oc/bone_1/bone_17/bone_18/bone_19"
-    classID: 4
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.z
-    path: "\u6674\u7BAC_oc/bone_1/bone_17"
-    classID: 4
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.y
-    path: "\u6674\u7BAC_oc/bone_1/bone_17"
-    classID: 4
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.x
-    path: "\u6674\u7BAC_oc/bone_1/bone_17"
-    classID: 4
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.z
-    path: "\u6674\u7BAC_oc/rightleg_up"
-    classID: 4
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.y
-    path: "\u6674\u7BAC_oc/rightleg_up"
-    classID: 4
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.x
-    path: "\u6674\u7BAC_oc/rightleg_up"
-    classID: 4
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.z
-    path: "\u6674\u7BAC_oc/bone_1/bone_20"
-    classID: 4
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.y
-    path: "\u6674\u7BAC_oc/bone_1/bone_20"
-    classID: 4
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.x
-    path: "\u6674\u7BAC_oc/bone_1/bone_20"
-    classID: 4
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.z
-    path: "\u6674\u7BAC_oc/bone_1/bone_2/bone_3/bone_7/bone_8/bone_9"
-    classID: 4
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.y
-    path: "\u6674\u7BAC_oc/bone_1/bone_2/bone_3/bone_7/bone_8/bone_9"
-    classID: 4
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.x
-    path: "\u6674\u7BAC_oc/bone_1/bone_2/bone_3/bone_7/bone_8/bone_9"
-    classID: 4
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.z
-    path: "\u6674\u7BAC_oc/bone_1/bone_2/bone_3/bone_10/bone_11/bone_12"
-    classID: 4
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.y
-    path: "\u6674\u7BAC_oc/bone_1/bone_2/bone_3/bone_10/bone_11/bone_12"
-    classID: 4
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.x
-    path: "\u6674\u7BAC_oc/bone_1/bone_2/bone_3/bone_10/bone_11/bone_12"
+    path: "\u6674\u7BAC_oc/bone_1/bone_2/bone_3/bone_6"
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -19192,7 +18616,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: "\u6674\u7BAC_oc/bone_1/bone_2/bone_3/bone_13"
+    path: "\u6674\u7BAC_oc/bone_1/bone_2/bone_3/bone_4"
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -19204,7 +18628,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: "\u6674\u7BAC_oc/bone_1/bone_2/bone_3/bone_13"
+    path: "\u6674\u7BAC_oc/bone_1/bone_2/bone_3/bone_4"
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -19216,7 +18640,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: "\u6674\u7BAC_oc/bone_1/bone_2/bone_3/bone_13"
+    path: "\u6674\u7BAC_oc/bone_1/bone_2/bone_3/bone_4"
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -19228,7 +18652,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: "\u6674\u7BAC_oc/bone_1/bone_2/bone_3/bone_10"
+    path: 22
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -19240,7 +18664,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: "\u6674\u7BAC_oc/bone_1/bone_2/bone_3/bone_10"
+    path: 22
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -19252,7 +18676,43 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: "\u6674\u7BAC_oc/bone_1/bone_2/bone_3/bone_10"
+    path: 22
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: 22/New LimbSolver2D_Target
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: 22/New LimbSolver2D_Target
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: 22/New LimbSolver2D_Target
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -19336,7 +18796,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: "\u6674\u7BAC_oc/bone_1/bone_2/bone_3/bone_6"
+    path: "\u6674\u7BAC_oc/bone_1/bone_2/bone_3/bone_13/bone_14/bone_15/bone_16"
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -19348,7 +18808,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: "\u6674\u7BAC_oc/bone_1/bone_2/bone_3/bone_6"
+    path: "\u6674\u7BAC_oc/bone_1/bone_2/bone_3/bone_13/bone_14/bone_15/bone_16"
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -19360,7 +18820,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: "\u6674\u7BAC_oc/bone_1/bone_2/bone_3/bone_6"
+    path: "\u6674\u7BAC_oc/bone_1/bone_2/bone_3/bone_13/bone_14/bone_15/bone_16"
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -19372,7 +18832,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: "\u6674\u7BAC_oc/mouth"
+    path: "\u6674\u7BAC_oc/bone_1/bone_2/bone_3/bone_7"
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -19384,7 +18844,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: "\u6674\u7BAC_oc/mouth"
+    path: "\u6674\u7BAC_oc/bone_1/bone_2/bone_3/bone_7"
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -19396,7 +18856,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: "\u6674\u7BAC_oc/mouth"
+    path: "\u6674\u7BAC_oc/bone_1/bone_2/bone_3/bone_7"
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -19408,7 +18868,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: "\u6674\u7BAC_oc/rightarm_down"
+    path: "\u6674\u7BAC_oc/bone_1/bone_2"
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -19420,7 +18880,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: "\u6674\u7BAC_oc/rightarm_down"
+    path: "\u6674\u7BAC_oc/bone_1/bone_2"
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -19432,7 +18892,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: "\u6674\u7BAC_oc/rightarm_down"
+    path: "\u6674\u7BAC_oc/bone_1/bone_2"
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -19444,7 +18904,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: "\u6674\u7BAC_oc/rightarm_up"
+    path: "\u6674\u7BAC_oc/bone_1/bone_17/bone_18/bone_19"
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -19456,7 +18916,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: "\u6674\u7BAC_oc/rightarm_up"
+    path: "\u6674\u7BAC_oc/bone_1/bone_17/bone_18/bone_19"
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -19468,7 +18928,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: "\u6674\u7BAC_oc/rightarm_up"
+    path: "\u6674\u7BAC_oc/bone_1/bone_17/bone_18/bone_19"
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -19480,7 +18940,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: "\u6674\u7BAC_oc/head"
+    path: "\u6674\u7BAC_oc/bone_1/bone_17/bone_18"
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -19492,7 +18952,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: "\u6674\u7BAC_oc/head"
+    path: "\u6674\u7BAC_oc/bone_1/bone_17/bone_18"
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -19504,7 +18964,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: "\u6674\u7BAC_oc/head"
+    path: "\u6674\u7BAC_oc/bone_1/bone_17/bone_18"
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -19516,7 +18976,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: "\u6674\u7BAC_oc/leftarm_down"
+    path: "\u6674\u7BAC_oc/bone_1"
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -19528,7 +18988,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: "\u6674\u7BAC_oc/leftarm_down"
+    path: "\u6674\u7BAC_oc/bone_1"
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -19540,7 +19000,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: "\u6674\u7BAC_oc/leftarm_down"
+    path: "\u6674\u7BAC_oc/bone_1"
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -19552,7 +19012,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: "\u6674\u7BAC_oc/leftarm_up"
+    path: "\u6674\u7BAC_oc/rightleg_down"
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -19564,7 +19024,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: "\u6674\u7BAC_oc/leftarm_up"
+    path: "\u6674\u7BAC_oc/rightleg_down"
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -19576,7 +19036,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: "\u6674\u7BAC_oc/leftarm_up"
+    path: "\u6674\u7BAC_oc/rightleg_down"
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -19588,7 +19048,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: "\u6674\u7BAC_oc/neck"
+    path: "\u6674\u7BAC_oc/bone_1/bone_2/bone_3/bone_7/bone_8/bone_9"
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -19600,7 +19060,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: "\u6674\u7BAC_oc/neck"
+    path: "\u6674\u7BAC_oc/bone_1/bone_2/bone_3/bone_7/bone_8/bone_9"
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -19612,7 +19072,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: "\u6674\u7BAC_oc/neck"
+    path: "\u6674\u7BAC_oc/bone_1/bone_2/bone_3/bone_7/bone_8/bone_9"
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -19624,7 +19084,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: "\u6674\u7BAC_oc/leftleg_down"
+    path: "\u6674\u7BAC_oc/bone_1/bone_2/bone_3/bone_7/bone_8"
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -19636,7 +19096,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: "\u6674\u7BAC_oc/leftleg_down"
+    path: "\u6674\u7BAC_oc/bone_1/bone_2/bone_3/bone_7/bone_8"
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -19648,7 +19108,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: "\u6674\u7BAC_oc/leftleg_down"
+    path: "\u6674\u7BAC_oc/bone_1/bone_2/bone_3/bone_7/bone_8"
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -19660,7 +19120,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: "\u6674\u7BAC_oc/leftleg_up"
+    path: "\u6674\u7BAC_oc/bone_1/bone_2/bone_3/bone_10/bone_11"
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -19672,7 +19132,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: "\u6674\u7BAC_oc/leftleg_up"
+    path: "\u6674\u7BAC_oc/bone_1/bone_2/bone_3/bone_10/bone_11"
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -19684,7 +19144,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: "\u6674\u7BAC_oc/leftleg_up"
+    path: "\u6674\u7BAC_oc/bone_1/bone_2/bone_3/bone_10/bone_11"
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -19696,7 +19156,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: "\u6674\u7BAC_oc/hair02R"
+    path: "\u6674\u7BAC_oc/bone_1/bone_2/bone_3/bone_13"
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -19708,7 +19168,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: "\u6674\u7BAC_oc/hair02R"
+    path: "\u6674\u7BAC_oc/bone_1/bone_2/bone_3/bone_13"
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -19720,7 +19180,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: "\u6674\u7BAC_oc/hair02R"
+    path: "\u6674\u7BAC_oc/bone_1/bone_2/bone_3/bone_13"
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -19732,7 +19192,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: "\u6674\u7BAC_oc/hair02L"
+    path: "\u6674\u7BAC_oc/bone_1/bone_2/bone_3/bone_10/bone_11/bone_12"
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -19744,7 +19204,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: "\u6674\u7BAC_oc/hair02L"
+    path: "\u6674\u7BAC_oc/bone_1/bone_2/bone_3/bone_10/bone_11/bone_12"
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -19756,7 +19216,43 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: "\u6674\u7BAC_oc/hair02L"
+    path: "\u6674\u7BAC_oc/bone_1/bone_2/bone_3/bone_10/bone_11/bone_12"
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: "\u6674\u7BAC_oc/bone_1/bone_2/bone_3"
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: "\u6674\u7BAC_oc/bone_1/bone_2/bone_3"
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: "\u6674\u7BAC_oc/bone_1/bone_2/bone_3"
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -19804,6 +19300,114 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
+    path: "\u6674\u7BAC_oc"
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: "\u6674\u7BAC_oc"
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: "\u6674\u7BAC_oc"
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: "\u6674\u7BAC_oc/bone_1/bone_2/bone_3/bone_5"
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: "\u6674\u7BAC_oc/bone_1/bone_2/bone_3/bone_5"
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: "\u6674\u7BAC_oc/bone_1/bone_2/bone_3/bone_5"
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: "\u6674\u7BAC_oc/leftleg_up"
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: "\u6674\u7BAC_oc/leftleg_up"
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: "\u6674\u7BAC_oc/leftleg_up"
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
     path: "\u6674\u7BAC_oc/nose"
     classID: 4
     script: {fileID: 0}
@@ -19840,7 +19444,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: "\u6674\u7BAC_oc/horsetail02"
+    path: "\u6674\u7BAC_oc/rightarm_down"
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -19852,7 +19456,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: "\u6674\u7BAC_oc/horsetail02"
+    path: "\u6674\u7BAC_oc/rightarm_down"
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -19864,115 +19468,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: "\u6674\u7BAC_oc/horsetail02"
-    classID: 4
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.z
-    path: "\u6674\u7BAC_oc/bone_1/bone_25/bone_26/11"
-    classID: 4
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.y
-    path: "\u6674\u7BAC_oc/bone_1/bone_25/bone_26/11"
-    classID: 4
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.x
-    path: "\u6674\u7BAC_oc/bone_1/bone_25/bone_26/11"
-    classID: 4
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.z
-    path: "\u6674\u7BAC_oc/lefthand"
-    classID: 4
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.y
-    path: "\u6674\u7BAC_oc/lefthand"
-    classID: 4
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.x
-    path: "\u6674\u7BAC_oc/lefthand"
-    classID: 4
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.z
-    path: "\u6674\u7BAC_oc/horsetail01"
-    classID: 4
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.y
-    path: "\u6674\u7BAC_oc/horsetail01"
-    classID: 4
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.x
-    path: "\u6674\u7BAC_oc/horsetail01"
+    path: "\u6674\u7BAC_oc/rightarm_down"
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -20020,7 +19516,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: "\u6674\u7BAC_oc/hair03L"
+    path: "\u6674\u7BAC_oc/horsetail02"
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -20032,7 +19528,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: "\u6674\u7BAC_oc/hair03L"
+    path: "\u6674\u7BAC_oc/horsetail02"
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -20044,7 +19540,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: "\u6674\u7BAC_oc/hair03L"
+    path: "\u6674\u7BAC_oc/horsetail02"
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -20056,7 +19552,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: "\u6674\u7BAC_oc/hair01"
+    path: "\u6674\u7BAC_oc/leftarm_down"
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -20068,7 +19564,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: "\u6674\u7BAC_oc/hair01"
+    path: "\u6674\u7BAC_oc/leftarm_down"
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -20080,7 +19576,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: "\u6674\u7BAC_oc/hair01"
+    path: "\u6674\u7BAC_oc/leftarm_down"
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -20092,7 +19588,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: "\u6674\u7BAC_oc/leftfoot"
+    path: "\u6674\u7BAC_oc/mouth"
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -20104,7 +19600,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: "\u6674\u7BAC_oc/leftfoot"
+    path: "\u6674\u7BAC_oc/mouth"
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -20116,7 +19612,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: "\u6674\u7BAC_oc/leftfoot"
+    path: "\u6674\u7BAC_oc/mouth"
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -20164,7 +19660,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: "\u6674\u7BAC_oc/bone_1/bone_27/bone_28/22"
+    path: "\u6674\u7BAC_oc/leftleg_down"
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -20176,7 +19672,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: "\u6674\u7BAC_oc/bone_1/bone_27/bone_28/22"
+    path: "\u6674\u7BAC_oc/leftleg_down"
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -20188,7 +19684,475 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: "\u6674\u7BAC_oc/bone_1/bone_27/bone_28/22"
+    path: "\u6674\u7BAC_oc/leftleg_down"
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: "\u6674\u7BAC_oc/hair02L"
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: "\u6674\u7BAC_oc/hair02L"
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: "\u6674\u7BAC_oc/hair02L"
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: "\u6674\u7BAC_oc/hair01"
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: "\u6674\u7BAC_oc/hair01"
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: "\u6674\u7BAC_oc/hair01"
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: 
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: 
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: 
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: "\u6674\u7BAC_oc/neck"
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: "\u6674\u7BAC_oc/neck"
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: "\u6674\u7BAC_oc/neck"
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: "\u6674\u7BAC_oc/horsetail01"
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: "\u6674\u7BAC_oc/horsetail01"
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: "\u6674\u7BAC_oc/horsetail01"
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: "\u6674\u7BAC_oc/bone_1/bone_25/bone_26"
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: "\u6674\u7BAC_oc/bone_1/bone_25/bone_26"
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: "\u6674\u7BAC_oc/bone_1/bone_25/bone_26"
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: "\u6674\u7BAC_oc/leftfoot"
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: "\u6674\u7BAC_oc/leftfoot"
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: "\u6674\u7BAC_oc/leftfoot"
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: "\u6674\u7BAC_oc/head"
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: "\u6674\u7BAC_oc/head"
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: "\u6674\u7BAC_oc/head"
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: "\u6674\u7BAC_oc/hair03L"
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: "\u6674\u7BAC_oc/hair03L"
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: "\u6674\u7BAC_oc/hair03L"
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: "\u6674\u7BAC_oc/hair02R"
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: "\u6674\u7BAC_oc/hair02R"
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: "\u6674\u7BAC_oc/hair02R"
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: "\u6674\u7BAC_oc/eyewhite"
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: "\u6674\u7BAC_oc/eyewhite"
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: "\u6674\u7BAC_oc/eyewhite"
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: "\u6674\u7BAC_oc/leftarm_up"
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: "\u6674\u7BAC_oc/leftarm_up"
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: "\u6674\u7BAC_oc/leftarm_up"
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: "\u6674\u7BAC_oc/lefthand"
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: "\u6674\u7BAC_oc/lefthand"
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: "\u6674\u7BAC_oc/lefthand"
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -20272,7 +20236,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: "\u6674\u7BAC_oc/righthem"
+    path: "\u6674\u7BAC_oc/bone_1/bone_25/bone_26/11"
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -20284,7 +20248,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: "\u6674\u7BAC_oc/righthem"
+    path: "\u6674\u7BAC_oc/bone_1/bone_25/bone_26/11"
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -20296,7 +20260,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: "\u6674\u7BAC_oc/righthem"
+    path: "\u6674\u7BAC_oc/bone_1/bone_25/bone_26/11"
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -20308,7 +20272,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: "\u6674\u7BAC_oc/eyewhite"
+    path: "\u6674\u7BAC_oc/righthand"
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -20320,7 +20284,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: "\u6674\u7BAC_oc/eyewhite"
+    path: "\u6674\u7BAC_oc/righthand"
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -20332,43 +20296,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: "\u6674\u7BAC_oc/eyewhite"
-    classID: 4
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.z
-    path: "\u6674\u7BAC_oc/eyelash"
-    classID: 4
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.y
-    path: "\u6674\u7BAC_oc/eyelash"
-    classID: 4
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.x
-    path: "\u6674\u7BAC_oc/eyelash"
+    path: "\u6674\u7BAC_oc/righthand"
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -20452,7 +20380,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: "\u6674\u7BAC_oc/coat"
+    path: "\u6674\u7BAC_oc/eyelash"
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -20464,7 +20392,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: "\u6674\u7BAC_oc/coat"
+    path: "\u6674\u7BAC_oc/eyelash"
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -20476,31 +20404,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: "\u6674\u7BAC_oc/coat"
-    classID: 4
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.x
-    path: "\u6674\u7BAC_oc/bone_1/bone_2/bone_3/bone_13/bone_14/bone_15/bone_16"
-    classID: 4
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.y
-    path: "\u6674\u7BAC_oc/bone_1/bone_2/bone_3/bone_13/bone_14/bone_15/bone_16"
+    path: "\u6674\u7BAC_oc/eyelash"
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -20512,10 +20416,113 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: "\u6674\u7BAC_oc/bone_1/bone_2/bone_3/bone_13/bone_14/bone_15/bone_16"
+    path: "\u6674\u7BAC_oc/coat"
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: "\u6674\u7BAC_oc/coat"
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: "\u6674\u7BAC_oc/coat"
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: "\u6674\u7BAC_oc/bone_1/bone_27/bone_28/22"
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: "\u6674\u7BAC_oc/bone_1/bone_27/bone_28/22"
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: "\u6674\u7BAC_oc/bone_1/bone_27/bone_28/22"
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: "\u6674\u7BAC_oc/rightleg_up"
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: "\u6674\u7BAC_oc/rightleg_up"
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: "\u6674\u7BAC_oc/rightleg_up"
     classID: 4
     script: {fileID: 0}
     flags: 0
   m_HasGenericRootTransform: 1
   m_HasMotionFloatCurves: 0
-  m_Events: []
+  m_Events:
+  - time: 0
+    functionName: 
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
